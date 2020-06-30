@@ -1,2 +1,2 @@
 # hai-pie
-Simple Apis using Django REST framework
+Simple Apis using Django REST framework okay
